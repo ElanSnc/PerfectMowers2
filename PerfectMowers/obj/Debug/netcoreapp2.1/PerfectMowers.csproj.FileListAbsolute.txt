@@ -1,0 +1,10 @@
+C:\Users\Elan\source\repos\PerfectMowers\PerfectMowers\bin\Debug\netcoreapp2.1\PerfectMowers.deps.json
+C:\Users\Elan\source\repos\PerfectMowers\PerfectMowers\bin\Debug\netcoreapp2.1\PerfectMowers.runtimeconfig.json
+C:\Users\Elan\source\repos\PerfectMowers\PerfectMowers\bin\Debug\netcoreapp2.1\PerfectMowers.runtimeconfig.dev.json
+C:\Users\Elan\source\repos\PerfectMowers\PerfectMowers\bin\Debug\netcoreapp2.1\PerfectMowers.dll
+C:\Users\Elan\source\repos\PerfectMowers\PerfectMowers\bin\Debug\netcoreapp2.1\PerfectMowers.pdb
+C:\Users\Elan\source\repos\PerfectMowers\PerfectMowers\obj\Debug\netcoreapp2.1\PerfectMowers.csproj.CoreCompileInputs.cache
+C:\Users\Elan\source\repos\PerfectMowers\PerfectMowers\obj\Debug\netcoreapp2.1\PerfectMowers.AssemblyInfoInputs.cache
+C:\Users\Elan\source\repos\PerfectMowers\PerfectMowers\obj\Debug\netcoreapp2.1\PerfectMowers.AssemblyInfo.cs
+C:\Users\Elan\source\repos\PerfectMowers\PerfectMowers\obj\Debug\netcoreapp2.1\PerfectMowers.dll
+C:\Users\Elan\source\repos\PerfectMowers\PerfectMowers\obj\Debug\netcoreapp2.1\PerfectMowers.pdb
